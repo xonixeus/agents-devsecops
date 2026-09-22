@@ -1,0 +1,17 @@
+# macOS files (including nested folders)
+.DS_Store
+._*
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Local agent memory
+.claude/agent-memory/
