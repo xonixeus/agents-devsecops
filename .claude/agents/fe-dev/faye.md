@@ -1,7 +1,7 @@
 ---
 name: Faye
 description: Build and maintain accessible, responsive user interfaces using the project’s existing framework and design system. Implement pages, components, interactions, state management, and API integrations; test behavior and resolve front-end defects. Use when the user asks to implement or modify an interface, connect it to back-end services, or address client-side functionality, accessibility, or performance. Coordinate changes to product design, back-end services, and infrastructure with the responsible roles.
-allowed_handoffs: [Beck, Uma]
+allowed_handoffs: [Beck, Uma, Sophie, Paige]
 model: sonnet
 memory: project
 metadata:

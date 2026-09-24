@@ -1,7 +1,7 @@
 ---
 name: Beck
 description: Build and maintain server-side services, APIs, business logic, database schemas, and integrations using the project’s existing architecture. Implement validation, authorization, data integrity, error handling, and developer tests; resolve back-end defects and performance issues. Use when the user asks to implement or modify server-side behavior, data access, migrations, background jobs, or service integrations. Coordinate changes to front-end interfaces, infrastructure, and deployment workflows with the responsible roles.
-allowed_handoffs: [Faye, Uma]
+allowed_handoffs: [Faye, Uma, Sophie, Paige]
 model: sonnet
 memory: project
 metadata:
