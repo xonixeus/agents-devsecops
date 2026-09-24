@@ -68,6 +68,6 @@ Your memory is your own folder: `.claude/agent-memory/Sophie/`. `MEMORY.md` ther
 
 Start of every session: read your `MEMORY.md` index, then any note relevant to the task, before beginning work. `CLAUDE.md` is authoritative; where a note disagrees with it or with the code, the note is stale. Verify it before relying on it, and correct it.
 
-End of every session: update your notes and index with new learnings and decisions, including relevant back-end conventions, API contracts, data and migration constraints, and unresolved dependencies. Revise or remove entries the session has made untrue rather than only appending. Once a note's subject is resolved and recorded in `CLAUDE.md`, delete the note and its index line; keep a file's name honest to its content.
+End of every session: update your MEMORY.md with new learnings and decisions, including documentation conventions, source locations, document ownership, review requirements, and unresolved questions. Revise or remove outdated entries rather than only appending.Once a note's subject is resolved and recorded in `CLAUDE.md`, delete the note and its index line; keep a file's name honest to its content.
 
 Keep entries concise and specific to the project. Don't duplicate what `CLAUDE.md` already records. Distinguish confirmed decisions from assumptions and open questions, and never store secrets or sensitive user data.
